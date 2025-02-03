@@ -1,5 +1,7 @@
 # <p align="center"> Hey there 👋 I'm Mallikarjun Aitha</p>
-### <p align="center"> A data analyst / scientist, exploring spatial analysis and cloud technologies</p><br>
+### <p align="center"> A data analyst / scientist, exploring spatial analysis and cloud technologies</p>
+
+
 
 - 🔭 I’m a data science grad student at the University of New Haven<br>
 
