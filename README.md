@@ -2,7 +2,7 @@
 ### <p align="center"> A data scientist, exploring spatial analysis and cloud technologies</p>
 - 🔭 I’m a data science grad student at the University of New Haven<br>
 
-- 🌱 I’m currently learning <b>Amazon Web Services (AWS) and Tableau</b> <br>
+- 🌱 I’m currently learning <b>Large Language Models and Artificial Intelligence</b> <br>
 
 - 👨‍💻 My projects are available on my [Streamlit Portfolio](https://mallikarjun.streamlit.app)  <br>
 
